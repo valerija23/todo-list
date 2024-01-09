@@ -1,3 +1,10 @@
+# 
+# Todo App
+# 
+# Masivi https://mape.gov.lv/catalog/materials/6501426F-B6EC-44B3-8B93-DC553DAE8886/view?preview=7A90D16F-0A8A-4840-A2E3-5EA4F6D4E194
+# Arrays https://www.w3schools.com/python/python_arrays.asp
+# 
+
 def add(list, item):
   pass
 
