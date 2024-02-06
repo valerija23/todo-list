@@ -24,6 +24,7 @@ def print_list(list):
   # https://www.w3schools.com/python/python_lists_loop.asp
   pass
 
+
 def show(list):
   # https://www.w3schools.com/python/python_lists_access.asp
   pass
