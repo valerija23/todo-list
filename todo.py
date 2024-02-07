@@ -7,17 +7,20 @@
 
 def add(list, item):
   # https://www.w3schools.com/python/python_lists_add.asp
-  pass
+  list.append(item)
+  print(list)
+
 
 
 def remove(list, index):
   # https://www.w3schools.com/python/python_lists_remove.asp
-  pass
-
+  list.pop(index)
+  print(list)
 
 def clear(list):
   # https://www.w3schools.com/python/python_lists_remove.asp
-  pass
+  list.clear(index)
+  print(list)
 
 
 def print_list(list):
